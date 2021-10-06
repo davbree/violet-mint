@@ -12,7 +12,7 @@
             "label": "My Hero Section 2",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "variant": "variant-a",
+                "variant": "variant-b",
                 "title": "Another Title...",
                 "text": "Hello",
                 "actions": [{
