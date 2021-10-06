@@ -14,7 +14,7 @@ sections:
     textAlign: left
     quote: >-
       “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to h!!ome cooks.”
+      sustainable fish supply to h!!ome ??cooks.”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
